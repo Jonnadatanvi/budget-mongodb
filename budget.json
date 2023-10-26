@@ -2,26 +2,26 @@
     "myBudget": [
       {
         "title": "Eat out",
-        "budget": 90
-      },
-      {
-        "title": "Rent",
-        "budget": 360
-      },
-      {
-        "title": "Grocery",
         "budget": 100
       },
       {
-        "title": "Utilities",
+        "title": "Rent",
+        "budget": 130
+      },
+      {
+        "title": "Grocery",
         "budget": 60
       },
       {
-        "title": "Internet",
+        "title": "Utilities",
+        "budget": 40
+      },
+      {
+        "title": "Entertainment",
         "budget": 30
       },
       {
-        "title": "Gas",
+        "title": "Transportation",
         "budget": 80
       },
       {
